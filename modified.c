@@ -70,9 +70,9 @@ char* keyboardInput()
 void readIndirection(FILE* fp, FILE* input)
 {
     char s[1024] = { 0 };
-    while (fgets(s, sizeof(s), input))
+    while(fread(s, sizeof(s), 1, input))
     {
-        fputs(s, fp);
+        fwrite(s, sizeof(s), 1, fp);
     }
 
     if (feof(stdin)) printf("EOF occurred\n");
