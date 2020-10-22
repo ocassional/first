@@ -69,10 +69,12 @@ char* keyboardInput()
 
 void readIndirection(FILE* fp, FILE* input)
 {
-    char s[1024] = { 0 };
-    while (fgets(s, sizeof(s), input))
+    size_t nread;
+    char s[BUF_SIZE] = { 0 };
+    while(nread = fread(s, 1, BUF_SIZE, input))
     {
-        fputs(s, fp);
+        fwrite(s, 1, nread, fp);
+        fflush(fp);
     }
 
     if (feof(stdin)) printf("EOF occurred\n");
