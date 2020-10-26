@@ -1,0 +1,173 @@
+dileep@dileep-VirtualBox:~/testing$ bash bashScript.sh out
+Testing for 1.cpp.............................
+file1 = 1.cpp
+file2 = 1.cpp.out
+Test PASSED for input file [1.cpp and 1.cpp.out]
+
+
+Testing for a.cpp.............................
+file1 = a.cpp
+file2 = a.cpp.out
+Test PASSED for input file [a.cpp and a.cpp.out]
+
+
+Testing for bashScript.sh.............................
+file1 = bashScript.sh
+file2 = bashScript.sh.out
+Test PASSED for input file [bashScript.sh and bashScript.sh.out]
+
+
+Testing for core.............................
+file1 = core
+file2 = core.out
+Test PASSED for input file [core and core.out]
+
+
+Testing for Dileep.xlsx.............................
+file1 = Dileep.xlsx
+file2 = Dileep.xlsx.out
+Test PASSED for input file [Dileep.xlsx and Dileep.xlsx.out]
+
+
+Testing for DKV_0005.jpg.............................
+file1 = DKV_0005.jpg
+file2 = DKV_0005.jpg.out
+Test PASSED for input file [DKV_0005.jpg and DKV_0005.jpg.out]
+
+
+Testing for DKV_0008.jpg.............................
+file1 = DKV_0008.jpg
+file2 = DKV_0008.jpg.out
+Test PASSED for input file [DKV_0008.jpg and DKV_0008.jpg.out]
+
+
+Testing for DKV_0015.jpg.............................
+file1 = DKV_0015.jpg
+file2 = DKV_0015.jpg.out
+Test PASSED for input file [DKV_0015.jpg and DKV_0015.jpg.out]
+
+
+Testing for DKV_0020.jpg.............................
+file1 = DKV_0020.jpg
+file2 = DKV_0020.jpg.out
+Test PASSED for input file [DKV_0020.jpg and DKV_0020.jpg.out]
+
+
+Testing for DKV_0024.jpg.............................
+file1 = DKV_0024.jpg
+file2 = DKV_0024.jpg.out
+Test PASSED for input file [DKV_0024.jpg and DKV_0024.jpg.out]
+
+
+Testing for DKV_0025.jpg.............................
+file1 = DKV_0025.jpg
+file2 = DKV_0025.jpg.out
+Test PASSED for input file [DKV_0025.jpg and DKV_0025.jpg.out]
+
+
+Testing for drive-download-20201026T192420Z-001.zip.............................
+file1 = drive-download-20201026T192420Z-001.zip
+file2 = drive-download-20201026T192420Z-001.zip.out
+Test PASSED for input file [drive-download-20201026T192420Z-001.zip and drive-download-20201026T192420Z-001.zip.out]
+
+
+Testing for filePosix.c.............................
+file1 = filePosix.c
+file2 = filePosix.c.out
+Test PASSED for input file [filePosix.c and filePosix.c.out]
+
+
+Testing for lib.tar.gz.............................
+file1 = lib.tar.gz
+file2 = lib.tar.gz.out
+Test PASSED for input file [lib.tar.gz and lib.tar.gz.out]
+
+
+Testing for out.............................
+file1 = out
+file2 = out.out
+Test PASSED for input file [out and out.out]
+
+
+Testing for output.xml.............................
+file1 = output.xml
+file2 = output.xml.out
+Test PASSED for input file [output.xml and output.xml.out]
+
+
+Testing for prog.c.............................
+file1 = prog.c
+file2 = prog.c.out
+Test PASSED for input file [prog.c and prog.c.out]
+
+
+Testing for Quicklet.pdf.............................
+file1 = Quicklet.pdf
+file2 = Quicklet.pdf.out
+Test PASSED for input file [Quicklet.pdf and Quicklet.pdf.out]
+
+
+Testing for script.py.............................
+file1 = script.py
+file2 = script.py.out
+Test PASSED for input file [script.py and script.py.out]
+
+
+Testing for test.c.............................
+file1 = test.c
+file2 = test.c.out
+Test PASSED for input file [test.c and test.c.out]
+
+
+testOutput is a directory
+Testing for testOutput.txt.............................
+file1 = testOutput.txt
+file2 = testOutput.txt.out
+Test PASSED for input file [testOutput.txt and testOutput.txt.out]
+
+
+Testing for test.py.............................
+file1 = test.py
+file2 = test.py.out
+Test PASSED for input file [test.py and test.py.out]
+
+
+Testing for testscript.sh.............................
+file1 = testscript.sh
+file2 = testscript.sh.out
+Test PASSED for input file [testscript.sh and testscript.sh.out]
+
+
+Testing for text.c.............................
+file1 = text.c
+file2 = text.c.out
+Test PASSED for input file [text.c and text.c.out]
+
+
+Testing for VID_20200915_104423942.mp4.............................
+file1 = VID_20200915_104423942.mp4
+file2 = VID_20200915_104423942.mp4.out
+Test PASSED for input file [VID_20200915_104423942.mp4 and VID_20200915_104423942.mp4.out]
+
+
+file1 = /home/dileep/testing/testOutput/ls.out
+file2 = /home/dileep/testing/testOutput/ls.bash
+Test PASSED for input file [/home/dileep/testing/testOutput/ls.out and /home/dileep/testing/testOutput/ls.bash]
+
+
+file1 = /home/dileep/testing/testOutput/ls-lart.out
+file2 = /home/dileep/testing/testOutput/ls-lart.bash
+Test PASSED for input file [/home/dileep/testing/testOutput/ls-lart.out and /home/dileep/testing/testOutput/ls-lart.bash]
+
+
+file1 = /home/dileep/testing/testOutput/pythonscript.py.out
+file2 = /home/dileep/testing/testOutput/pythonscript.py.bash
+Test PASSED for input file [/home/dileep/testing/testOutput/pythonscript.py.out and /home/dileep/testing/testOutput/pythonscript.py.bash]
+
+
+file1 = /home/dileep/testing/testOutput/cattestscript.sh.out
+file2 = /home/dileep/testing/testOutput/cattestscript.sh.bash
+Test PASSED for input file [/home/dileep/testing/testOutput/cattestscript.sh.out and /home/dileep/testing/testOutput/cattestscript.sh.bash]
+
+
+dileep@dileep-VirtualBox:~/testing$ 
